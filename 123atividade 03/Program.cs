@@ -24,51 +24,34 @@ namespace _123atividade_03
             int i=1;
             while (i<6000) {
                 i++;
-                Console.Clear();
+               
                 Console.WriteLine(i);
-                Console.WriteLine("");
-                Console.WriteLine("");
-                Console.WriteLine("");
-                Console.WriteLine("");
-                Console.WriteLine("");
-                Console.WriteLine("");
-                Console.WriteLine("");
-                Console.WriteLine("");
-                Console.WriteLine("");
+                
                 Console.ForegroundColor = ConsoleColor.DarkRed;
                 Console.WriteLine("                NADA MUDANDO DE COR");
-                Console.Clear();
+                
                 Console.ForegroundColor = ConsoleColor.Cyan;
-                Console.WriteLine("                NADA MUDANDO DE COR");
-                Console.Clear();
+                Console.WriteLine("                COR NADA DE MUDANDO");
+                
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine("                NADA MUDANDO DE COR");
-                Console.Clear();
+                
                 Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.WriteLine("                NADA MUDANDO DE COR");
+                Console.WriteLine("                COR NADA DE MUDAND");
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("                NADA MUDANDO DE COR");
-                Console.Clear();
+                
                 Console.ForegroundColor = ConsoleColor.White;
-                Console.WriteLine("                NADA MUDANDO DE COR");
-                Console.Clear();
+                Console.WriteLine("                COR NADA DE MUDAND");
+               
                 Console.ForegroundColor = ConsoleColor.Magenta;
                 Console.WriteLine("                NADA MUDANDO DE COR");
-                Console.Clear();
+               
                 Console.ForegroundColor = ConsoleColor.Gray;
-                Console.WriteLine("                NADA MUDANDO DE COR");
-                Console.WriteLine("");
-                Console.WriteLine("");
-                Console.WriteLine("");
-                Console.WriteLine("");
-                Console.WriteLine("");
-                Console.WriteLine("");
-                Console.WriteLine("");
-                Console.WriteLine("");
-                Console.WriteLine("");
-                Console.WriteLine("");
+                
             }
-            Console.ReadKey();
+            Console.Clear();
+            Console.ReadLine();
 
 
         }
