@@ -17,7 +17,7 @@ namespace _123atividade_03
             Console.WriteLine("                                     Fellipe Otavio Nunes TI21 Atividae_03 ");
             Console.WriteLine("                                     ===================================== ");
             Console.ReadKey();
-            Console.WriteLine("Commit 02");
+            Console.WriteLine("Desafio-1: Leia a Frase");
             Console.ResetColor();
 
 
@@ -51,6 +51,9 @@ namespace _123atividade_03
                 
             }
             Console.Clear();
+            Console.ResetColor();
+
+            
             Console.ReadLine();
 
 
