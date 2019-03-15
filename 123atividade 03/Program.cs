@@ -18,6 +18,9 @@ namespace _123atividade_03
             Console.WriteLine("                                     ===================================== ");
             Console.ReadKey();
             Console.WriteLine("Desafio-1: Leia a Frase");
+            Console.WriteLine("Prescione qualquer tecla pra começar");
+            Console.ReadKey();
+
             Console.ResetColor();
 
 
@@ -52,7 +55,7 @@ namespace _123atividade_03
             }
             Console.Clear();
             Console.ResetColor();
-
+            Console.WriteLine("Escreva a frase que voce leu");
             
             Console.ReadLine();
 
